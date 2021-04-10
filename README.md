@@ -1,6 +1,6 @@
 # 🚀 Javascript Front-End 🚀
 
-![Alt text](./whatsapp-clone.jpg "Screenshot")
+![Alt text](./whatsapp-clone.JPG "Screenshot")
 
 ## Stack :
 * React js
