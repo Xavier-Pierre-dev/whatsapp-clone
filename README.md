@@ -16,11 +16,11 @@ _____________________________
 ### Features :
 * Google authentification using firebase
 * Create room 
-* Sending/Vew new message in realtime and store everything inside a firestore database
+* Sending/View new message in realtime and store everything inside a firestore database
 _____________________________
 
 ### Quick Started :
-* Create `.env` file inside `/` within the following data
+* Create `.env` file inside `/` within the following data :
   - REACT_APP_API_KEY=`your api key`
   - REACT_APP_AUTH_DOMAIN=`your auth domain`
   - REACT_APP_PROJECT_ID=`your project ID`
@@ -30,7 +30,7 @@ _____________________________
   - REACT_APP_MEASUREMENT_ID=`your measurement ID`
 * Go to Firebase Settings > General > Your apps > Firebase SDK snippet > Config and use the information for complete your `.env`
 * Go to Firebase > authentification > sign-in method > enabled google authentification
-* Go to Firebase > firestore > create a data 
+* Go to Firebase > firestore > create a database
 
 
 Start the app : `npm start`
