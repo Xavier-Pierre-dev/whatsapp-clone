@@ -1,14 +1,23 @@
 # 🚀 Javascript Front-End 🚀
 
+![Alt text](./whatsapp-clone.jpg "Screenshot")
+
 ## Stack :
-* React
-* Firebase
+* React js
+* Firebase Firestore Realtime DB
+* Material UI
+* React Router
+* React Context API
+* Redux
+* Google Authentication
 * BEM naming convention
+_____________________________
 
 ### Features :
 * Google authentification using firebase
 * Create room 
 * Sending/Vew new message in realtime and store everything inside a firestore database
+_____________________________
 
 ### Quick Started :
 * Create `.env` file inside `/` within the following data
@@ -23,7 +32,9 @@
 * Go to Firebase > authentification > sign-in method > enabled google authentification
 * Go to Firebase > firestore > create a data 
 
+
 Start the app : `npm start`
+_____________________________
 
 ### Why this project :
 I'm learning web development because that interest me. Now this project is created by learning from Clever Programmer (https://www.youtube.com/c/CleverProgrammer/featured) thanks to them for sharing free class on google. 
